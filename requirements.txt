@@ -1,0 +1,4 @@
+ipycanvas
+ipywidgets
+orjson
+voila

@@ -1,6 +1,8 @@
 # SPACECHEM_CMPM_Version
 
-SPACECHEM_CMPM_Version WHAT IS SPACECHEM_CMPM_Version?
+SPACECHEM_CMPM_Version 
+
+WHAT IS SPACECHEM_CMPM_Version?
 
 SPACECHEM_CMPM_Version is new adaptation of the puzzle game SpaceChem by Zachtronics. In this version you will decode a motion sequence for chemical reactor like "C" and "H"(atoms) into specific sequence like "HCCH"(molecules).
 

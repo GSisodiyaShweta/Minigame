@@ -1,4 +1,2 @@
-ipycanvas
 ipywidgets
-orjson
-voila
+ColabTurtlePlus

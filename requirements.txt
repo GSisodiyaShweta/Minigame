@@ -1,2 +1,4 @@
 ipywidgets
 ColabTurtlePlus
+orjson
+voila
